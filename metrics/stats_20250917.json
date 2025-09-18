@@ -1,0 +1,14 @@
+{
+  "report_id": "ad3321d4-435d-4764-b816-a639ac3b64fd",
+  "generated_at": "2025-09-17T22:02:54.140352",
+  "period": {
+    "start": "2025-09-10T22:02:54.140352",
+    "end": "2025-09-17T22:02:54.140352"
+  },
+  "summary": {
+    "total_events": 33085,
+    "unique_users": 8014,
+    "conversion_rate": 2.56,
+    "revenue": 94195.8
+  }
+}
